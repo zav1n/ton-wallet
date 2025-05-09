@@ -1,0 +1,7 @@
+{
+  "url": "http://localhost:3000",
+  "name": "TON 钱包演示",
+  "iconUrl": "http://localhost:3000/icon.png",
+  "termsOfUseUrl": "http://localhost:3000/terms",
+  "privacyPolicyUrl": "http://localhost:3000/privacyPolicyUrl"
+}
