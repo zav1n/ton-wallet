@@ -11,6 +11,5 @@ export function useInit<T>(
     })();
   },deps);
 
-
   return state;
 }
